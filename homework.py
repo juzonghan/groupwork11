@@ -69,5 +69,5 @@ for sl in range(1,rev_range+1):
     else:
         break
 
-666
+nb
 奥利给干了兄弟们！
