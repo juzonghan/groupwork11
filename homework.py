@@ -73,3 +73,4 @@ for sl in range(1,rev_range+1):
 奥利给干了兄弟们！
 真的强！
 66666666666！
+塞，giao！
