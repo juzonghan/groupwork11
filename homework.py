@@ -68,3 +68,6 @@ for sl in range(1,rev_range+1):
         print("%d %d %d" % (sl,days,commit_cnt))
     else:
         break
+
+666
+奥利给干了兄弟们！
