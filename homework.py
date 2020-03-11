@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # get the commit count per sublevel pointwise or cumulative (c)
 # arguments is the tag as displayed by git tag and the number
@@ -71,3 +71,4 @@ for sl in range(1,rev_range+1):
 
 真滴牛逼
 奥利给干了兄弟们！
+真的强！
